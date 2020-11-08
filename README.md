@@ -1,5 +1,7 @@
 # FILE
 
+![alt text](http://url/to/img.png)
+
 ## iXfile
 Windows hexeditor with graphical bitmap mapping.
 
