@@ -1,6 +1,6 @@
 # FILE
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/profcsd/FILE/blob/master/ixfile.png)
 
 ## iXfile
 Windows hexeditor with graphical bitmap mapping.
